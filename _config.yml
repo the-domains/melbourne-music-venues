@@ -1,0 +1,14 @@
+layout_spectrum: 0.8315412
+color:
+  saturation: 0.8423121
+  lightness: 0.3399245
+  brandStrength: 0.5558445
+  brandColors:
+    - '#050605'
+    - '#00FFFC'
+    - '#005CE0'
+    - '#FFFFFB'
+    - '#A3804B'
+  rhythmicContrast: 0.7986166
+typography_spectrum: 0.6487455
+name: Melbourne music venues
